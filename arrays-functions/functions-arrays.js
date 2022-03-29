@@ -1,3 +1,6 @@
+alert('This site is great')
+
+
 // Skriv en funktion som returnerar 
 // det största elementet i en lista.
  let min_first_list=['banana', 'orange', 'pineapple', 'strawberry', 'pear']
